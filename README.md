@@ -1,4 +1,4 @@
-# Análise de Desempenho das Lojas de Produtos Naturais em Salvador
+# Análise de Desempenho das Lojas de Produtos Naturais
 
 ## Descrição do Projeto
 
