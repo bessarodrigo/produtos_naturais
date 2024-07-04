@@ -47,6 +47,3 @@ O painel de acompanhamento foi criado no Power BI para uma visualização intera
 
 ## Contribuição
 Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
