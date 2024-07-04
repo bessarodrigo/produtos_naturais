@@ -37,4 +37,16 @@ Criei um painel de acompanhamento no Power BI e planejei a criação de um banco
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/bessarodrigo/produtos_naturais.git
+
+2. Instale as dependências:
+pip install pandas matplotlib numpy SQLAlchemy psycopg2
+
+## Painel de Acompanhamento
+O painel de acompanhamento foi criado no Power BI para uma visualização interativa dos dados.
+
+## Contribuição
+Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
