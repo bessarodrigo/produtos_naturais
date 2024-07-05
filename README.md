@@ -7,7 +7,7 @@ Este projeto visa analisar o desempenho das lojas de produtos naturais, utilizan
 ## Metodologia
 
 ### 1. Entendimento do Negócio
-O objetivo é fornecer uma visualização clara e detalhada do desempenho das lojas de produtos naturais em Salvador, auxiliando na tomada de decisões estratégicas.
+O objetivo é fornecer uma visualização clara e detalhada do desempenho das lojas de produtos naturais, auxiliando na tomada de decisões estratégicas.
 
 ### 2. Entendimento dos Dados
 Carreguei e inspecionei os dados iniciais para entender sua estrutura e características.
