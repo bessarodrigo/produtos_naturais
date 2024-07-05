@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto visa analisar o desempenho das lojas de produtos naturais em Salvador, utilizando métricas como quantidade vendida e faturamento. A análise foi feita por vendedores, filiais e períodos, com visualizações em Python e um painel de acompanhamento no Power BI.
+Este projeto visa analisar o desempenho das lojas de produtos naturais, utilizando métricas como quantidade vendida e faturamento. A análise foi feita por vendedores, filiais e períodos, com visualizações em Python e um painel de acompanhamento no Power BI.
 
 ## Metodologia
 
