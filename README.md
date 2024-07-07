@@ -4,7 +4,7 @@
 
 Este projeto visa analisar o desempenho das lojas de produtos naturais, utilizando métricas como quantidade vendida e faturamento. A análise foi feita por vendedores, filiais e períodos, com visualizações em Python e um painel de acompanhamento no Power BI.
 
-[Link para o artigo no Medium]((https://medium.com/@reisrodri/an%C3%A1lise-de-desempenho-de-lojas-de-produtos-naturais-em-salvador-um-estudo-de-caso-8fe3e39e60c2))
+[Link para o artigo no Medium](https://medium.com/@reisrodri/an%C3%A1lise-de-desempenho-de-lojas-de-produtos-naturais-em-salvador-um-estudo-de-caso-8fe3e39e60c2)
 
 ## Metodologia
 
