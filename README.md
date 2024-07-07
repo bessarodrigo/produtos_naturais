@@ -7,16 +7,16 @@ Este projeto visa analisar o desempenho das lojas de produtos naturais, utilizan
 ## Metodologia
 
 ### 1. Entendimento do Negócio
-O objetivo é fornecer uma visualização clara e detalhada do desempenho das lojas de produtos naturais, auxiliando na tomada de decisões estratégicas.
+O objetivo é fornecer uma visualização do desempenho das lojas de produtos naturais.
 
 ### 2. Entendimento dos Dados
-Carreguei e inspecionei os dados iniciais para entender sua estrutura e características.
+Os dados foram coletados a partir de registros detalhados de vendas, incluindo informações sobre filiais, vendedores, produtos, quantidade vendida e valor faturado.
 
 ### 3. Preparação dos Dados
-Renomeei colunas, ajustei os nomes dos vendedores e descrições, e removi colunas desnecessárias.
+Os dados foram preparados e organizados em um DataFrame utilizando Python e Pandas para facilitar a análise exploratória. Renomeei colunas, ajustei os nomes das colunas, e removi colunas desnecessárias.
 
 ### 4. Modelagem
-Agrupei os dados por filial e vendedor para calcular as somas das colunas `quantidade_vendida` e `valor`.
+Agrupei os dados por filial e vendedor para calcular as somas das colunas `quantidade_vendida` e `valor`, utilizando gráficos e tabelas.
 
 ### 5. Avaliação
 Calculei estatísticas descritivas e visualizei os dados usando gráficos de barras e boxplots.
