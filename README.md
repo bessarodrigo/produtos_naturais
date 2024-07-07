@@ -49,3 +49,8 @@ O painel de acompanhamento foi criado no Power BI para uma visualização intera
 
 ## Contribuição
 Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Contato
+E-mail - rodrigoreisbc@hotmail.com
+LinkedIn - https://www.linkedin.com/in/rodrigo-bessa/
+
