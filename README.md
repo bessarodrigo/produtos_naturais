@@ -10,23 +10,12 @@ Este projeto visa analisar o desempenho das lojas de produtos naturais, utilizan
 
 ## Metodologia
 
-### 1. Entendimento do Negócio
-O objetivo é fornecer uma visualização do desempenho das lojas de produtos naturais.
-
-### 2. Entendimento dos Dados
-Os dados foram coletados a partir de registros detalhados de vendas, incluindo informações sobre filiais, vendedores, produtos, quantidade vendida e valor faturado.
-
-### 3. Preparação dos Dados
-Os dados foram preparados e organizados em um DataFrame utilizando Python e Pandas para facilitar a análise exploratória. Renomeei colunas, ajustei os nomes das colunas, e removi colunas desnecessárias.
-
-### 4. Modelagem
-Agrupei os dados por filial e vendedor para calcular as somas das colunas `quantidade_vendida` e `valor`, utilizando gráficos e tabelas.
-
-### 5. Avaliação
-Calculei estatísticas descritivas e visualizei os dados usando gráficos de barras e boxplots.
-
-### 6. Implementação
-Criei um painel de acompanhamento no Power BI e planejei a criação de um banco de dados PostgreSQL.
+**1. Entendimento do Negócio:** o objetivo é fornecer uma visualização do desempenho das lojas de produtos naturais
+**2. Entendimento dos Dados:**os dados foram coletados a partir de registros detalhados de vendas, incluindo informações sobre filiais, vendedores, produtos, quantidade vendida e valor faturado
+**3. Preparação dos Dados:** os dados foram preparados e organizados em um DataFrame utilizando Python e Pandas para facilitar a análise exploratória. Renomeei colunas, ajustei os nomes das colunas, e removi colunas desnecessárias
+**4. Modelagem:** agrupei os dados por filial e vendedor para calcular as somas das colunas `quantidade_vendida` e `valor`, utilizando gráficos e tabelas
+**5. Avaliação**: calculei estatísticas descritivas e visualizei os dados usando gráficos de barras e boxplots
+**6. Implementação:** criei um painel de acompanhamento no Power BI e planejei a criação de um banco de dados PostgreSQL
 
 ## Pré-requisitos
 
