@@ -47,7 +47,12 @@ Criei um painel de acompanhamento no Power BI e planejei a criação de um banco
 pip install pandas matplotlib numpy SQLAlchemy psycopg2
 
 ## Painel de Acompanhamento
-href="[https://linkedin.com/in/rodrigo-bessa](https://app.powerbi.com/view?r=eyJrIjoiYmIyMzBmYzUtMjQ0ZS00NmIyLWI4ZDktNzgwNGI4ZGM3YmU1IiwidCI6ImNiNTAwMGI3LWE3MGYtNDQyYi04ZGQ1LWEwZTk5MjU5NjVhYSJ9)">O painel de acompanhamento foi criado no Power BI para uma visualização dos dados</a>
+
+<p>O painel de acompanhamento foi criado no Power BI para facilitar a visualização dos dados de forma interativa e intuitiva. Você pode acessá-lo através do seguinte link:</p>
+
+<ul>
+  <li><a href="https://app.powerbi.com/view?r=eyJrIjoiYmIyMzBmYzUtMjQ0ZS00NmIyLWI4ZDktNzgwNGI4ZGM3YmU1IiwidCI6ImNiNTAwMGI3LWE3MGYtNDQyYi04ZGQ1LWEwZTk5MjU5NjVhYSJ9" target="_blank">Painel de Acompanhamento no Power BI</a></li>
+</ul>
 
 ## Contato
 E-mail - rodrigoreisbc@hotmail.com
